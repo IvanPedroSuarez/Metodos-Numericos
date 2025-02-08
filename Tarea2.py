@@ -69,4 +69,4 @@ if __name__ == "__main__":
     formulario.show()
     sys.exit(app.exec_())
 
-    print('nada')
+    print('nada dsds')
