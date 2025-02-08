@@ -68,3 +68,5 @@ if __name__ == "__main__":
     formulario = Formulario()
     formulario.show()
     sys.exit(app.exec_())
+
+    print('nada')
