@@ -12,4 +12,4 @@ print(f"Error absoluto: {error_absoluto}")
 error_relativo = error_absoluto / abs(valor_real)
 print(f"Error relativo: {error_relativo:.10f}")  # Mostramos 10 decimales
 
-print('Nada de nada')
+print('Nada de nada  jkj')
