@@ -36,7 +36,7 @@ print("Error absoluto:", error_absoluto)
 print("Error relativo:", error_relativo)
 
 
-print('Ejemplo de error de truncamiento en Python')
+print('Ejemplo de error de truncamiento, en Python')
 #Aproximar el valor de e (la base del logaritmo natural) utilizando la serie de Taylor para la función exponencial truncada.
 def seno_aproximado(x, n):
   """
