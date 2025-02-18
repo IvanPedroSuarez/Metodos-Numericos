@@ -66,7 +66,7 @@ for i in range(10):
 
 print("Resultado de la resta:", resta)
 
-print('\nEjemplo 3 de error de redondeo en Python')
+print('\nEjemplo 3 de error de redondeo en Python.')
 # Este ejemplo muestra cómo la división repetida puede generar errores de redondeo.
 valor = 1.0
 for i in range(10):
